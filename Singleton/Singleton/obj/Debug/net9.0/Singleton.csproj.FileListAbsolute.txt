@@ -1,0 +1,15 @@
+C:\Users\Haidy\Desktop\Creational Design Pattern\Singleton\Singleton\bin\Debug\net9.0\Singleton.exe
+C:\Users\Haidy\Desktop\Creational Design Pattern\Singleton\Singleton\bin\Debug\net9.0\Singleton.deps.json
+C:\Users\Haidy\Desktop\Creational Design Pattern\Singleton\Singleton\bin\Debug\net9.0\Singleton.runtimeconfig.json
+C:\Users\Haidy\Desktop\Creational Design Pattern\Singleton\Singleton\bin\Debug\net9.0\Singleton.dll
+C:\Users\Haidy\Desktop\Creational Design Pattern\Singleton\Singleton\bin\Debug\net9.0\Singleton.pdb
+C:\Users\Haidy\Desktop\Creational Design Pattern\Singleton\Singleton\obj\Debug\net9.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haidy\Desktop\Creational Design Pattern\Singleton\Singleton\obj\Debug\net9.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\Haidy\Desktop\Creational Design Pattern\Singleton\Singleton\obj\Debug\net9.0\Singleton.AssemblyInfo.cs
+C:\Users\Haidy\Desktop\Creational Design Pattern\Singleton\Singleton\obj\Debug\net9.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Haidy\Desktop\Creational Design Pattern\Singleton\Singleton\obj\Debug\net9.0\Singleton.sourcelink.json
+C:\Users\Haidy\Desktop\Creational Design Pattern\Singleton\Singleton\obj\Debug\net9.0\Singleton.dll
+C:\Users\Haidy\Desktop\Creational Design Pattern\Singleton\Singleton\obj\Debug\net9.0\refint\Singleton.dll
+C:\Users\Haidy\Desktop\Creational Design Pattern\Singleton\Singleton\obj\Debug\net9.0\Singleton.pdb
+C:\Users\Haidy\Desktop\Creational Design Pattern\Singleton\Singleton\obj\Debug\net9.0\Singleton.genruntimeconfig.cache
+C:\Users\Haidy\Desktop\Creational Design Pattern\Singleton\Singleton\obj\Debug\net9.0\ref\Singleton.dll

@@ -3,6 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\Haidy\\Desktop\\Creational Design Pattern\\Singleton\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1F757941-225D-4BEF-80A1-574F9FF42208}|..\\FactoryDesignPattern\\FactoryDesignPattern.csproj|c:\\users\\haidy\\desktop\\creational design pattern\\factorydesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F757941-225D-4BEF-80A1-574F9FF42208}|..\\FactoryDesignPattern\\FactoryDesignPattern.csproj|c:\\users\\haidy\\desktop\\creational design pattern\\factorydesignpattern\\paymentfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F757941-225D-4BEF-80A1-574F9FF42208}|..\\FactoryDesignPattern\\FactoryDesignPattern.csproj|c:\\users\\haidy\\desktop\\creational design pattern\\factorydesignpattern\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F757941-225D-4BEF-80A1-574F9FF42208}|..\\FactoryDesignPattern\\FactoryDesignPattern.csproj|c:\\users\\haidy\\desktop\\creational design pattern\\factorydesignpattern\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F757941-225D-4BEF-80A1-574F9FF42208}|..\\FactoryDesignPattern\\FactoryDesignPattern.csproj|c:\\users\\haidy\\desktop\\creational design pattern\\factorydesignpattern\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A30AB97F-6DF0-4551-B1C7-DFB28E91147B}|Singleton\\Singleton.csproj|c:\\users\\haidy\\desktop\\creational design pattern\\singleton\\singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A30AB97F-6DF0-4551-B1C7-DFB28E91147B}|Singleton\\Singleton.csproj|solutionrelative:singleton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +57,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Creational Design Pattern\\FactoryDesignPattern\\PaymentFactory.cs",
+              "RelativeDocumentMoniker": "..\\FactoryDesignPattern\\PaymentFactory.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Creational Design Pattern\\FactoryDesignPattern\\PaymentFactory.cs",
+              "RelativeToolTip": "..\\FactoryDesignPattern\\PaymentFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T21:14:33.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PayPalPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Creational Design Pattern\\FactoryDesignPattern\\PayPalPayment.cs",
+              "RelativeDocumentMoniker": "..\\FactoryDesignPattern\\PayPalPayment.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Creational Design Pattern\\FactoryDesignPattern\\PayPalPayment.cs",
+              "RelativeToolTip": "..\\FactoryDesignPattern\\PayPalPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T21:13:39.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Creational Design Pattern\\FactoryDesignPattern\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "..\\FactoryDesignPattern\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Creational Design Pattern\\FactoryDesignPattern\\CreditCardPayment.cs",
+              "RelativeToolTip": "..\\FactoryDesignPattern\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T21:12:42.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Creational Design Pattern\\FactoryDesignPattern\\IPayment.cs",
+              "RelativeDocumentMoniker": "..\\FactoryDesignPattern\\IPayment.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Creational Design Pattern\\FactoryDesignPattern\\IPayment.cs",
+              "RelativeToolTip": "..\\FactoryDesignPattern\\IPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T21:11:23.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Creational Design Pattern\\FactoryDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FactoryDesignPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\Haidy\\Desktop\\Creational Design Pattern\\FactoryDesignPattern\\Program.cs",
+              "RelativeToolTip": "..\\FactoryDesignPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T21:09:45.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DoubleCheckSingletonLogger.cs",
               "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Creational Design Pattern\\Singleton\\Singleton\\DoubleCheckSingletonLogger.cs",
               "RelativeDocumentMoniker": "Singleton\\DoubleCheckSingletonLogger.cs",
@@ -50,12 +130,11 @@
               "RelativeToolTip": "Singleton\\DoubleCheckSingletonLogger.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwA8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T17:57:17.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T17:57:17.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "LockSingletonLogger.cs",
               "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Creational Design Pattern\\Singleton\\Singleton\\LockSingletonLogger.cs",
               "RelativeDocumentMoniker": "Singleton\\LockSingletonLogger.cs",
@@ -68,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "BasicSingletonLogger.cs",
               "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Creational Design Pattern\\Singleton\\Singleton\\BasicSingletonLogger.cs",
               "RelativeDocumentMoniker": "Singleton\\BasicSingletonLogger.cs",
@@ -76,12 +155,11 @@
               "RelativeToolTip": "Singleton\\BasicSingletonLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T14:18:33.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T14:18:33.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Haidy\\Desktop\\Creational Design Pattern\\Singleton\\Singleton\\Program.cs",
               "RelativeDocumentMoniker": "Singleton\\Program.cs",
